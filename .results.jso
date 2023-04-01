@@ -1,0 +1,54 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-04-01T23:28:45.637Z",
+    "end": "2023-04-01T23:28:45.652Z",
+    "duration": 15
+  },
+  "tests": [
+    {
+      "title": "has a <h1> element",
+      "fullTitle": "index.html has a <h1> element",
+      "file": "/Users/loranga91/Development/Code/SE-PREP/phase-0-html-tag-lab/test/indexTest.js",
+      "duration": 8,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains the text \"Hello, World!\"",
+      "fullTitle": "index.html the <h1> element contains the text \"Hello, World!\"",
+      "file": "/Users/loranga91/Development/Code/SE-PREP/phase-0-html-tag-lab/test/indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "has a <h1> element",
+      "fullTitle": "index.html has a <h1> element",
+      "file": "/Users/loranga91/Development/Code/SE-PREP/phase-0-html-tag-lab/test/indexTest.js",
+      "duration": 8,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains the text \"Hello, World!\"",
+      "fullTitle": "index.html the <h1> element contains the text \"Hello, World!\"",
+      "file": "/Users/loranga91/Development/Code/SE-PREP/phase-0-html-tag-lab/test/indexTest.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
